@@ -1,0 +1,14 @@
+{
+    "name": "path-to-regexp",
+    "url": "https://github.com/DenkiYagi/haxe-extern-path-to-regexp",
+    "description": "Haxe extern definitions for path-to-regexp",
+    "license": "Apache",
+    "version": "2.2.0",
+    "releasenote": "",
+    "classPath": "src",
+    "contributors": ["terurou"],
+    "tags": ["js", "nodejs", "path-to-regexp", "web", "http", "extern"],
+    "dependencies": {
+        "externtype": "1.0.0"
+    }
+}

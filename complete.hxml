@@ -1,0 +1,7 @@
+-cp src
+-lib externtype
+-js dist/dummy.js
+-debug
+--no-inline
+--no-output
+js.pathtoregexp.PathToRegexp
